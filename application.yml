@@ -6,7 +6,7 @@ hello:
   message: Hello World!!!
 
 greeting:
-  hello: Hello, World!!!
+  hello: Hello, Brave New World!!!
   message: Hiya!
 
 dummy:
